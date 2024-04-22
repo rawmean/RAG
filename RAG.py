@@ -34,7 +34,6 @@ def create_index_from_pdf(pdf_file):
 
 
 import streamlit as st
-from PyPDF2 import PdfReader
 
 st.title('Question Answering App')
 
