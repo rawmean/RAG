@@ -1,0 +1,7 @@
+llama-index
+llama-index-embeddings-huggingface
+langchain
+jupyter
+python-dotenv
+llama-index-llms-ollama
+streamlit
